@@ -1,0 +1,21 @@
+0,"tensor(0.1627, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1558, device='cuda:0')",96,0.0005
+epoch,train_loss,val_loss,Seed,LR
+1,"tensor(0.1542, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1526, device='cuda:0')",96,0.0005
+2,"tensor(0.1505, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1556, device='cuda:0')",96,0.0005
+3,"tensor(0.1481, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1487, device='cuda:0')",96,0.0005
+4,"tensor(0.1460, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1484, device='cuda:0')",96,0.0005
+5,"tensor(0.1446, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1482, device='cuda:0')",96,0.0005
+6,"tensor(0.1430, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1446, device='cuda:0')",96,0.0005
+7,"tensor(0.1416, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1471, device='cuda:0')",96,0.0005
+8,"tensor(0.1402, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1450, device='cuda:0')",96,0.0005
+0,"tensor(0.1416, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1460, device='cuda:0')",96,0.0005
+epoch,train_loss,val_loss,Seed,LR
+1,"tensor(0.1402, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1460, device='cuda:0')",96,0.0005
+2,"tensor(0.1389, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1472, device='cuda:0')",96,0.0005
+3,"tensor(0.1374, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1462, device='cuda:0')",96,0.0005
+4,"tensor(0.1319, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1441, device='cuda:0')",96,0.00025
+5,"tensor(0.1292, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1470, device='cuda:0')",96,0.00025
+6,"tensor(0.1269, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1474, device='cuda:0')",96,0.00025
+7,"tensor(0.1247, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1484, device='cuda:0')",96,0.00025
+8,"tensor(0.1187, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1506, device='cuda:0')",96,0.000125
+9,"tensor(0.1140, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.1543, device='cuda:0')",96,6.25e-05

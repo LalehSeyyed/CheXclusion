@@ -1,0 +1,16 @@
+0,"tensor(0.2810, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2836, device='cuda:0')",57,0.0005
+epoch,train_loss,val_loss,Seed,LR
+1,"tensor(0.2680, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2751, device='cuda:0')",57,0.0005
+2,"tensor(0.2628, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2694, device='cuda:0')",57,0.0005
+3,"tensor(0.2594, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2856, device='cuda:0')",57,0.0005
+4,"tensor(0.2569, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2668, device='cuda:0')",57,0.0005
+5,"tensor(0.2547, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2630, device='cuda:0')",57,0.0005
+6,"tensor(0.2531, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2699, device='cuda:0')",57,0.0005
+7,"tensor(0.2514, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2974, device='cuda:0')",57,0.0005
+8,"tensor(0.2499, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2661, device='cuda:0')",57,0.0005
+9,"tensor(0.2441, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2591, device='cuda:0')",57,0.00025
+10,"tensor(0.2419, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2620, device='cuda:0')",57,0.00025
+11,"tensor(0.2403, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2618, device='cuda:0')",57,0.00025
+12,"tensor(0.2388, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2609, device='cuda:0')",57,0.00025
+13,"tensor(0.2341, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2634, device='cuda:0')",57,0.000125
+14,"tensor(0.2306, device='cuda:0', grad_fn=<DivBackward0>)","tensor(0.2630, device='cuda:0')",57,6.25e-05
